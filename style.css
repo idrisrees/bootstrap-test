@@ -1,0 +1,17 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.dark-mode {
+  background: #212529;
+  color: white;
+}
+
+a {
+  cursor: pointer;
+}
+
+hr {
+    border: 1px solid #212529;
+}
